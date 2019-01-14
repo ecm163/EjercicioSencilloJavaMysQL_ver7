@@ -1,7 +1,6 @@
 # EjercicioSencilloJavaMysQL_ver7
 
 En esta versión -además de incorporarse las fucionalidades del anterior- se le incorpora la  posibilida de subir una nueva imagen en la 
-
 pestaña "Configuración" que aparecerá en la pestaña de inicio "Principal". Esto se realiza mediante el componente JFileCHooser.
 
 Para acceder a la aplicación mediante el login:
